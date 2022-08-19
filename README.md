@@ -2,3 +2,4 @@
 Simple game made in JavaScript, HTML and CSS
 
 ## Simple Game
+(src/images/example.png)
